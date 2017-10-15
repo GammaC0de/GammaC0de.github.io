@@ -88,6 +88,7 @@ accounts|TenluaVn.py|48a1580|0.01
 accounts|TurbobitNet.py|48a1580|0.11
 accounts|TusfilesNet.py|48a1580|0.11
 accounts|TwojlimitPl.py|48a1580|0.01
+accounts|TwojlimitPl.py|48a1580|0.01
 accounts|UlozTo.py|48a1580|0.28
 accounts|UpleaCom.py|48a1580|0.02
 accounts|UploadcCom.py|48a1580|0.07
@@ -441,6 +442,7 @@ hoster|TurbobitNet.py|48a1580|0.31
 hoster|TurbouploadCom.py|48a1580|0.08
 hoster|TusfilesNet.py|48a1580|0.18
 hoster|TwoSharedCom.py|48a1580|0.19
+hoster|TwojlimitPl.py|48a1580|0.01
 hoster|TwojlimitPl.py|48a1580|0.01
 hoster|UgouploadNet.py|48a1580|0.04
 hoster|UlozTo.py|48a1580|1.39
