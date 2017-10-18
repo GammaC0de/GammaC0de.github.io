@@ -30,9 +30,9 @@ accounts|WarserverCz.py
 accounts|XFileSharingPro.py
 captcha|captcha.py
 captcha|OCR.py
-container|DLC_25.pyc
-container|DLC_26.pyc
-container|DLC_27.pyc
+container|DLC_25.py
+container|DLC_26.py
+container|DLC_27.py
 container|LinkList.py
 crypter|C1neonCom.py
 crypter|DailymotionBatch.py
