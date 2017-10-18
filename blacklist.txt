@@ -9,7 +9,7 @@ accounts|FileParadoxIn.py
 accounts|FreeWayMe.py
 accounts|HotfileCom.py
 accounts|Keep2shareCc.py
-accounts|LetitbitNet.py 
+accounts|LetitbitNet.py
 accounts|LinestorageCom.py
 accounts|LomafileCom.py
 accounts|MegaDebrid.py
