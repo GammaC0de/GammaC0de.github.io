@@ -19,7 +19,7 @@ accounts|EuroshareEu.py|303706a|0.12
 accounts|ExashareCom.py|303706a|0.06
 accounts|FastixRu.py|303706a|0.12
 accounts|FastshareCz.py|303706a|0.16
-accounts|File4SafeCom.py|303706a|0.11
+accounts|File4SafeCom.py|46587a1|0.12
 accounts|FilecloudIo.py|303706a|0.13
 accounts|FilefactoryCom.py|303706a|0.23
 accounts|FilejokerNet.py|303706a|0.02
@@ -99,7 +99,7 @@ accounts|WebshareCz.py|303706a|0.16
 accounts|WorldbytezCom.py|303706a|0.06
 accounts|YibaishiwuCom.py|303706a|0.09
 accounts|ZeveraCom.py|303706a|0.36
-captcha|AdYouLike.py|303706a|0.11
+captcha|AdYouLike.py|46587a1|0.12
 captcha|AdsCaptcha.py|303706a|0.14
 captcha|CircleCaptcha.py|303706a|1.11
 captcha|GigasizeCom.py|303706a|0.17
@@ -194,6 +194,7 @@ crypter|ShareLinksBiz.py|303706a|1.28
 crypter|SharingmatrixComFolder.py|303706a|0.07
 crypter|SpeedLoadOrgFolder.py|303706a|0.36
 crypter|StealthTo.py|303706a|0.25
+crypter|SuperMagicalCrypter.py|46587a1|0.01
 crypter|TNTVillageScambioeticoOrg.py|303706a|0.07
 crypter|TenluaVnFolder.py|303706a|0.02
 crypter|TinyurlCom.py|303706a|0.07
@@ -208,7 +209,6 @@ crypter|WuploadComFolder.py|303706a|0.07
 crypter|XFileSharingFolder.py|303706a|0.25
 crypter|XupPl.py|303706a|0.16
 crypter|YoutubeComFolder.py|303706a|1.09
-hooks|AndroidPhoneNotify.py|303706a|0.16
 hooks|AntiStandby.py|303706a|0.18
 hooks|AntiVirus.py|303706a|0.21
 hooks|BypassCaptcha.py|303706a|0.13
@@ -237,7 +237,7 @@ hooks|PushBullet.py|303706a|0.05
 hooks|PushOver.py|303706a|0.07
 hooks|RestartFailed.py|303706a|1.65
 hooks|SkipRev.py|303706a|0.38
-hooks|TransmissionRPC.py|303706a|0.19
+hooks|TransmissionRPC.py|46587a1|0.20
 hooks|UnSkipOnFail.py|303706a|0.14
 hooks|UpdateManager.py|b744fe5|1.20
 hooks|UserAgentSwitcher.py|303706a|0.16
@@ -380,6 +380,7 @@ hoster|NovafileCom.py|303706a|0.11
 hoster|NowDownloadSx.py|303706a|0.15
 hoster|NowVideoSx.py|303706a|0.17
 hoster|OboomCom.py|303706a|0.46
+hoster|OneDeadHoster.py|46587a1|1.29
 hoster|OneFichierCom.py|303706a|1.10
 hoster|OnlineTvRecorder.py|303706a|0.03
 hoster|OpenloadIo.py|303706a|0.20
@@ -432,7 +433,6 @@ hoster|SoundcloudCom.py|303706a|0.17
 hoster|SpeedLoadOrg.py|303706a|1.07
 hoster|SpeedfileCz.py|303706a|0.37
 hoster|SpeedyshareCom.py|303706a|0.11
-hoster|StahnuTo.py|303706a|0.16
 hoster|StorageTo.py|303706a|0.06
 hoster|StreamCz.py|303706a|0.41
 hoster|StreamcloudEu.py|303706a|0.16
@@ -515,7 +515,7 @@ internal|UnZip.py|303706a|1.24
 internal|XFSAccount.py|303706a|0.59
 internal|XFSCrypter.py|303706a|0.26
 internal|XFSHoster.py|303706a|0.80
-internal|misc.py|303706a|0.48
+internal|misc.py|46587a1|0.49
 BLACKLIST
 accounts|BayfilesCom.py
 accounts|BillionuploadsCom.py
@@ -571,6 +571,7 @@ crypter|XFileSharingProFolder.py
 crypter|YoutubeBatch.py
 hooks|AlldebridCom.py
 hooks|AlldebridComHook.py
+hooks|AndroidPhoneNotify.py
 hooks|Captcha9kw.py
 hooks|CaptchaTrader.py
 hooks|ClickAndLoad.py
@@ -655,6 +656,7 @@ hoster|SendmywayCom.py
 hoster|Share4webCom.py
 hoster|ShareRapidCom.py
 hoster|Solidfiles.py
+hoster|StahnuTo.py
 hoster|UploadableCh.py
 hoster|Vipleech4uCom.py
 hoster|XFileSharingPro.py

@@ -52,6 +52,7 @@ crypter|XFileSharingProFolder.py
 crypter|YoutubeBatch.py
 hooks|AlldebridCom.py
 hooks|AlldebridComHook.py
+hooks|AndroidPhoneNotify.py
 hooks|Captcha9kw.py
 hooks|CaptchaTrader.py
 hooks|ClickAndLoad.py
@@ -136,6 +137,7 @@ hoster|SendmywayCom.py
 hoster|Share4webCom.py
 hoster|ShareRapidCom.py
 hoster|Solidfiles.py
+hoster|StahnuTo.py
 hoster|UploadableCh.py
 hoster|Vipleech4uCom.py
 hoster|XFileSharingPro.py
