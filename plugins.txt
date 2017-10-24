@@ -9,7 +9,6 @@ accounts|CatShareNet.py|303706a|0.16
 accounts|CloudsharesNet.py|303706a|0.03
 accounts|CloudsixMe.py|303706a|0.05
 accounts|CloudzillaTo.py|303706a|0.09
-accounts|CramitIn.py|303706a|0.08
 accounts|CzshareCom.py|303706a|0.28
 accounts|DatoidCz.py|303706a|0.39
 accounts|DebridItaliaCom.py|303706a|0.22
@@ -240,7 +239,7 @@ hooks|RestartFailed.py|303706a|1.65
 hooks|SkipRev.py|303706a|0.38
 hooks|TransmissionRPC.py|303706a|0.19
 hooks|UnSkipOnFail.py|303706a|0.14
-hooks|UpdateManager.py|303706a|1.19
+hooks|UpdateManager.py|b744fe5|1.20
 hooks|UserAgentSwitcher.py|303706a|0.16
 hooks|WindowsPhoneNotify.py|303706a|0.18
 hooks|XFileSharing.py|303706a|0.56
@@ -287,6 +286,7 @@ hoster|EpicShareNet.py|303706a|0.07
 hoster|EuroshareEu.py|303706a|0.41
 hoster|ExashareCom.py|303706a|0.08
 hoster|ExtabitCom.py|303706a|0.73
+hoster|FakehosterCom.py|b744fe5|0.46
 hoster|FastixRu.py|303706a|0.22
 hoster|FastshareCz.py|303706a|0.41
 hoster|FileApeCom.py|303706a|0.17
@@ -520,6 +520,7 @@ BLACKLIST
 accounts|BayfilesCom.py
 accounts|BillionuploadsCom.py
 accounts|BitshareCom.py
+accounts|CramitIn.py
 accounts|CyberlockerCh.py
 accounts|DdlstorageCom.py
 accounts|EgoFilesCom.py
