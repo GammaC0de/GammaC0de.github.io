@@ -4,7 +4,6 @@ type|name|changeset|version
 accounts|AlldebridCom.py|48a1580|0.41
 accounts|AniStreamCom.py|48a1580|0.05
 accounts|BackinNet.py|48a1580|0.06
-accounts|BigfileTo.py|48a1580|0.11
 accounts|CatShareNet.py|48a1580|0.16
 accounts|CloudsharesNet.py|48a1580|0.03
 accounts|CloudsixMe.py|48a1580|0.05
@@ -240,7 +239,7 @@ hooks|RestartFailed.py|48a1580|1.65
 hooks|SkipRev.py|48a1580|0.38
 hooks|TransmissionRPC.py|48a1580|0.19
 hooks|UnSkipOnFail.py|48a1580|0.14
-hooks|UpdateManager.py|48a1580|1.19
+hooks|UpdateManager.py|b474fa0|1.20
 hooks|UserAgentSwitcher.py|48a1580|0.16
 hooks|WindowsPhoneNotify.py|48a1580|0.18
 hooks|XFileSharing.py|48a1580|0.56
@@ -287,6 +286,7 @@ hoster|EpicShareNet.py|48a1580|0.07
 hoster|EuroshareEu.py|48a1580|0.41
 hoster|ExashareCom.py|48a1580|0.08
 hoster|ExtabitCom.py|48a1580|0.73
+hoster|FakehosterCom.py|b474fa0|0.46
 hoster|FastixRu.py|48a1580|0.22
 hoster|FastshareCz.py|48a1580|0.41
 hoster|FileApeCom.py|48a1580|0.17
@@ -518,6 +518,7 @@ internal|XFSHoster.py|48a1580|0.80
 internal|misc.py|48a1580|0.48
 BLACKLIST
 accounts|BayfilesCom.py
+accounts|BigfileTo.py
 accounts|BillionuploadsCom.py
 accounts|BitshareCom.py
 accounts|CyberlockerCh.py
