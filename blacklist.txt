@@ -4,6 +4,7 @@ accounts|BitshareCom.py
 accounts|CramitIn.py
 accounts|CyberlockerCh.py
 accounts|DdlstorageCom.py
+accounts|DebridItaliaCom.py
 accounts|EgoFilesCom.py
 accounts|File4safeCom.py
 accounts|FileParadoxIn.py

@@ -11,7 +11,6 @@ accounts|CloudsixMe.py|303706a|0.05
 accounts|CloudzillaTo.py|303706a|0.09
 accounts|CzshareCom.py|303706a|0.28
 accounts|DatoidCz.py|303706a|0.39
-accounts|DebridItaliaCom.py|303706a|0.22
 accounts|DebridlinkFr.py|303706a|0.03
 accounts|DepositfilesCom.py|303706a|0.39
 accounts|EasybytezCom.py|303706a|0.18
@@ -19,7 +18,7 @@ accounts|EuroshareEu.py|303706a|0.12
 accounts|ExashareCom.py|303706a|0.06
 accounts|FastixRu.py|303706a|0.12
 accounts|FastshareCz.py|303706a|0.16
-accounts|File4SafeCom.py|46587a1|0.12
+accounts|File4SafeCom.py|22a5c3f|0.13
 accounts|FilecloudIo.py|303706a|0.13
 accounts|FilefactoryCom.py|303706a|0.23
 accounts|FilejokerNet.py|303706a|0.02
@@ -192,6 +191,7 @@ crypter|SexuriaCom.py|303706a|0.15
 crypter|ShSt.py|303706a|0.09
 crypter|ShareLinksBiz.py|303706a|1.28
 crypter|SharingmatrixComFolder.py|303706a|0.07
+crypter|ShinyNewCrypter.py|22a5c3f|0.26
 crypter|SpeedLoadOrgFolder.py|303706a|0.36
 crypter|StealthTo.py|303706a|0.25
 crypter|SuperMagicalCrypter.py|46587a1|0.01
@@ -351,7 +351,7 @@ hoster|LolabitsEs.py|303706a|0.07
 hoster|LomafileCom.py|303706a|0.57
 hoster|LuckyShareNet.py|303706a|0.14
 hoster|MediafireCom.py|303706a|0.97
-hoster|MegaCoNz.py|303706a|0.51
+hoster|MegaCoNz.py|22a5c3f|0.52
 hoster|MegaDebridEu.py|303706a|0.58
 hoster|MegaFilesSe.py|303706a|0.07
 hoster|MegaRapidCz.py|303706a|0.64
@@ -469,6 +469,7 @@ hoster|Vipleech4UCom.py|303706a|0.25
 hoster|VkCom.py|303706a|0.06
 hoster|WarserverCz.py|303706a|0.18
 hoster|WebshareCz.py|303706a|0.25
+hoster|WonderfulHoster.py|22a5c3f|0.25
 hoster|WrzucTo.py|303706a|0.09
 hoster|WuploadCom.py|303706a|0.28
 hoster|X7To.py|303706a|0.46
@@ -523,6 +524,7 @@ accounts|BitshareCom.py
 accounts|CramitIn.py
 accounts|CyberlockerCh.py
 accounts|DdlstorageCom.py
+accounts|DebridItaliaCom.py
 accounts|EgoFilesCom.py
 accounts|File4safeCom.py
 accounts|FileParadoxIn.py
