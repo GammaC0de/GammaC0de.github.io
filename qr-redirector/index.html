@@ -8,13 +8,13 @@
 <body>
     <p>Opening app, please wait...</p>
 
-    <script>
+    <script type="text/javascript">
         // 1. Grab the client-side secret parameters after the '#'
-        const secretFragment = window.location.hash; 
+        const secretFragment = window.location.hash;
 
         if (secretFragment) {
             // 2. Construct your app's custom intent deep-link
-            const appDeepLink = "org.pyload.android.client://addserver?" + secretFragment;
+            const appDeepLink = "org.pyload.android.client://addserver?" + secretFragment.substring(1); // Remove the '#' from the fragment
 
             // 3. Proactively trigger the redirect to your app
             window.location.href = appDeepLink;
